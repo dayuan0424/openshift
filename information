@@ -1,1 +1,3 @@
 uuid: 956d6b5b-eb0e-4093-b468-20a2919f2a4a
+docker_name: openshiftdoker/v2ray
+config_json: {"log": {"loglevel": "warning"},"inbound": {"protocol": "vmess","port": 8080,"settings": {"clients": [{"id": "956d6b5b-eb0e-4093-b468-20a2919f2a4a","alterId": 64,"security": "aes-128-cfb"}]},"streamSettings": {"network": "ws"}},"inboundDetour": [],"outbound": {"protocol": "freedom","settings": {}}}
